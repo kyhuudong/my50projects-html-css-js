@@ -109,6 +109,6 @@ main {
 }
 
 .movie:hover .overview {
-    transform: translateY(0);
+    transform: translateY(0%);
 }
 
